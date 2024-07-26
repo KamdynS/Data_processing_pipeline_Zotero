@@ -1,0 +1,8 @@
+google-generativeai==0.3.1
+python-dotenv==1.0.0
+PyPDF2==3.0.1
+pypandoc==1.11
+python-docx==0.8.11
+pyzotero==1.5.5
+langchain-community==0.0.10
+argparse==1.4.0

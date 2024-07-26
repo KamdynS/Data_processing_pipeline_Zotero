@@ -1,0 +1,7 @@
+.env
+/RAG_Data_Processing_Pipeline/Data/*
+/RAG_Data_Processing_Pipeline/__pycache__/*
+/Culture_1000_integration_scripts/Culture_1000_excel_files/*
+/Culture_1000_integration_scripts/output_parquet_files/*
+/GREPSR_Data_Integration_Scripts/input_folder/*
+/GREPSR_Data_Integration_Scripts/output_folder/*
